@@ -1,7 +1,7 @@
 class T2 < Formula
   desc "TUI app made with go to track the time you spend on a project"
   homepage "https://github.com/franpfeiffer/t2"
-  url "https://github.com/franpfeiffer/t2.git", branch: "master"
+  url "https://github.com/franpfeiffer/t2.git", branch: "master" 
   license "MPL-2.0"
   head "https://github.com/franpfeiffer/t2.git", branch: "master"
 
