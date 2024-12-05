@@ -3,7 +3,7 @@ class T2 < Formula
   homepage "https://github.com/franpfeiffer/t2"
   url "https://github.com/franpfeiffer/t2.git", tag: "0.2.0"
   license "MPL-2.0"
-  head "https://github.com/franpfeiffer/t2.git", branch: "master"
+  head "https://github.com/franpfeiffer/t2.git", tag: "0.2.0"
 
   depends_on "go" => :build
 
