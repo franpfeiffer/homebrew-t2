@@ -15,4 +15,3 @@ class T2 < Formula
     system "false"
   end
 end
-
